@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shepherd Ncube's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shepherd Ncube
+Data Scientist, Machine Learning Engineer, Data Analyst.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="shepherd@applesdofall.org">shepherd@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Shepherd_Ncube">My wikipedia page</a>
 </div>
 
 
